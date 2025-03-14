@@ -5,7 +5,7 @@
 **432 Player Plus** is an advanced music player that **retunes any local audio file in real-time** to **432 Hz and other Solfeggio Frequencies**, offering a more natural and harmonious listening experience.  
 
 🔥 **Key Features:**  
-- ✅ **Real-Time Audio Retuning** – Convert any track to **432 Hz, 528 Hz, 396 Hz**, and more.  
+- ✅ **Real-Time Audio Retuning** – Convert any track to **432 Hz.
 - ✅ **Lossless & High-Quality Audio Support** – Compatible with **FLAC, WAV, MP3**, and more.  
 - ✅ **Custom Frequency Adjustments** – Tune your favorite tracks with precision.  
 - ✅ **Simple & Intuitive Interface** – Designed for effortless playback.  
